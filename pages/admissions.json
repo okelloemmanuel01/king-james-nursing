@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Apio Liz",
+        "course": "Certificate in Midwifery",
+        "phone": "0762910601",
+        "email": "kingjamesnursing@gmail.com",
+        "district": "kitgum",
+        "academicDoc": "uploads\/academic_681f1dc7e345b.jpg",
+        "paymentProof": "uploads\/payment_681f1dc7e3461.jpg",
+        "submittedAt": "2025-05-10 11:35:03",
+        "status": "approved",
+        "processedAt": "2025-05-19 08:11:05"
+    },
+    {
+        "name": "ogwang",
+        "course": "Diploma in Nursing",
+        "phone": "0762910601",
+        "email": "kingjamesnursing@gmail.com",
+        "district": "kampala",
+        "academicDoc": "uploads\/academic_681f290e28637.jpg",
+        "paymentProof": "uploads\/payment_681f290e28657.jpg",
+        "submittedAt": "2025-05-10 12:23:10"
+    },
+    {
+        "name": "Okello",
+        "course": "Diploma in Midwifery",
+        "phone": "0762910601",
+        "email": "okello.emma@icloud.com",
+        "district": "kireka",
+        "academicDoc": "uploads\/academic_682ad562b37ef.jpg",
+        "paymentProof": "uploads\/payment_682ad562b37f8.jpg",
+        "submittedAt": "2025-05-19 08:53:22"
+    },
+    {
+        "name": "Okello Emmanuel",
+        "course": "Diploma in Nursing",
+        "phone": "0762910601",
+        "email": "kingjamesnursing@gmail.com",
+        "district": "kampala",
+        "academicDoc": "uploads\/academic_682e1fcbe3afb.jpg",
+        "paymentProof": "uploads\/payment_682e1fcbe3b0a.jpg",
+        "submittedAt": "2025-05-21 20:47:39",
+        "status": "approved",
+        "processedAt": "2025-05-21 20:48:55"
+    }
+]
